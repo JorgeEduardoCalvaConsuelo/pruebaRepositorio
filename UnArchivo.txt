@@ -1,1 +1,9 @@
-Un archivo
+#Un archivo
+##titulo
+###titulo2
+Texto Normal
+*italic*
+_italic_
+
+**negro**
+__negro__
